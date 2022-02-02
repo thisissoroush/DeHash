@@ -1,0 +1,3 @@
+{
+    "ConnectionString":"Driver={ODBC Driver 17 for SQL Server};Server=.;Database=dehash;Trusted_Connection=yes;"
+}
